@@ -1,0 +1,236 @@
+Uri: https://5-arkan.com/
+File Name: C:\Downloaded Web Sites\5-arkan.com\index.htm
+Content Type: text/html
+
+Uri: https://5-arkan.com/cdn-cgi/images/browser-bar.png?1376755637
+File Name: C:\Downloaded Web Sites\5-arkan.com\cdn-cgi\images\browser-bar.png
+Content Type: image/png
+
+Uri: https://5-arkan.com/cdn-cgi/images/cf-icon-browser.png
+File Name: C:\Downloaded Web Sites\5-arkan.com\cdn-cgi\images\cf-icon-browser.png
+Content Type: image/png
+
+Uri: https://5-arkan.com/cdn-cgi/images/cf-icon-cloud.png
+File Name: C:\Downloaded Web Sites\5-arkan.com\cdn-cgi\images\cf-icon-cloud.png
+Content Type: image/png
+
+Uri: https://5-arkan.com/cdn-cgi/images/cf-icon-error.png
+File Name: C:\Downloaded Web Sites\5-arkan.com\cdn-cgi\images\cf-icon-error.png
+Content Type: image/png
+
+Uri: https://5-arkan.com/cdn-cgi/images/cf-icon-horizontal-arrow.png
+File Name: C:\Downloaded Web Sites\5-arkan.com\cdn-cgi\images\cf-icon-horizontal-arrow.png
+Content Type: image/png
+
+Uri: https://5-arkan.com/cdn-cgi/images/cf-icon-ok.png
+File Name: C:\Downloaded Web Sites\5-arkan.com\cdn-cgi\images\cf-icon-ok.png
+Content Type: image/png
+
+Uri: https://5-arkan.com/cdn-cgi/images/cf-icon-server.png
+File Name: C:\Downloaded Web Sites\5-arkan.com\cdn-cgi\images\cf-icon-server.png
+Content Type: image/png
+
+Uri: https://5-arkan.com/cdn-cgi/images/cf-no-screenshot-error.png
+File Name: C:\Downloaded Web Sites\5-arkan.com\cdn-cgi\images\cf-no-screenshot-error.png
+Content Type: image/png
+
+Uri: https://5-arkan.com/cdn-cgi/images/cf-no-screenshot-warn.png
+File Name: C:\Downloaded Web Sites\5-arkan.com\cdn-cgi\images\cf-no-screenshot-warn.png
+Content Type: image/png
+
+Uri: https://5-arkan.com/cdn-cgi/images/icon-exclamation.png?1376755637
+File Name: C:\Downloaded Web Sites\5-arkan.com\cdn-cgi\images\icon-exclamation.png
+Content Type: image/png
+
+Uri: https://5-arkan.com/cdn-cgi/l/email-protection
+File Name: C:\Downloaded Web Sites\5-arkan.com\cdn-cgi\l\email-protection.html
+Content Type: text/html
+
+Uri: https://5-arkan.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Downloaded Web Sites\5-arkan.com\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://5-arkan.com/cdn-cgi/styles/cf.errors.css
+File Name: C:\Downloaded Web Sites\5-arkan.com\cdn-cgi\styles\cf.errors.css
+Content Type: text/css
+
+Uri: https://5-arkan.com/contacts
+File Name: C:\Downloaded Web Sites\5-arkan.com\contacts.html
+Content Type: text/html
+
+Uri: https://5-arkan.com/favicon.ico
+File Name: C:\Downloaded Web Sites\5-arkan.com\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://5-arkan.com/img/avatars/01.jpg
+File Name: C:\Downloaded Web Sites\5-arkan.com\img\avatars\01.jpg
+Content Type: image/jpeg
+
+Uri: https://5-arkan.com/img/avatars/02.jpg
+File Name: C:\Downloaded Web Sites\5-arkan.com\img\avatars\02.jpg
+Content Type: image/jpeg
+
+Uri: https://5-arkan.com/img/avatars/03.jpg
+File Name: C:\Downloaded Web Sites\5-arkan.com\img\avatars\03.jpg
+Content Type: image/jpeg
+
+Uri: https://5-arkan.com/img/avatars/04.jpg
+File Name: C:\Downloaded Web Sites\5-arkan.com\img\avatars\04.jpg
+Content Type: image/jpeg
+
+Uri: https://5-arkan.com/img/avatars/05.jpg
+File Name: C:\Downloaded Web Sites\5-arkan.com\img\avatars\05.jpg
+Content Type: image/jpeg
+
+Uri: https://5-arkan.com/img/avatars/06.jpg
+File Name: C:\Downloaded Web Sites\5-arkan.com\img\avatars\06.jpg
+Content Type: image/jpeg
+
+Uri: https://5-arkan.com/img/hero_01_1.png
+File Name: C:\Downloaded Web Sites\5-arkan.com\img\hero_01_1.png
+Content Type: image/png
+
+Uri: https://5-arkan.com/img/i-ftr.png
+File Name: C:\Downloaded Web Sites\5-arkan.com\img\i-ftr.png
+Content Type: image/png
+
+Uri: https://5-arkan.com/img/logo/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\5-arkan.com\img\logo\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://5-arkan.com/img/logo/favicon-16x16.png
+File Name: C:\Downloaded Web Sites\5-arkan.com\img\logo\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://5-arkan.com/img/logo/favicon-32x32.png
+File Name: C:\Downloaded Web Sites\5-arkan.com\img\logo\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://5-arkan.com/img/logo/logo.svg
+File Name: C:\Downloaded Web Sites\5-arkan.com\img\logo\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://5-arkan.com/img/logo/safari-pinned-tab.svg
+File Name: C:\Downloaded Web Sites\5-arkan.com\img\logo\safari-pinned-tab.svg
+Content Type: image/svg+xml
+
+Uri: https://5-arkan.com/offer
+File Name: C:\Downloaded Web Sites\5-arkan.com\offer.html
+Content Type: text/html
+
+Uri: https://5-arkan.com/privacy
+File Name: C:\Downloaded Web Sites\5-arkan.com\privacy.html
+Content Type: text/html
+
+Uri: https://5-arkan.com/security/login
+File Name: C:\Downloaded Web Sites\5-arkan.com\security\login.html
+Content Type: text/html
+
+Uri: https://5-arkan.com/storage/w/ItCb_pfzN_/600h
+File Name: C:\Downloaded Web Sites\5-arkan.com\storage\w\ItCb_pfzN_\600h
+Content Type: image/webp
+
+Uri: https://5-arkan.com/storage/w/kI8bA393a7/600h
+File Name: C:\Downloaded Web Sites\5-arkan.com\storage\w\kI8bA393a7\600h
+Content Type: image/webp
+
+Uri: https://5-arkan.com/storage/w/uELjJeKGzN/600h
+File Name: C:\Downloaded Web Sites\5-arkan.com\storage\w\uELjJeKGzN\600h
+Content Type: image/webp
+
+Uri: https://5-arkan.com/tariffs
+File Name: C:\Downloaded Web Sites\5-arkan.com\tariffs.html
+Content Type: text/html
+
+Uri: https://5-arkan.com/_nuxt/auth.af0fc6fa.js
+File Name: C:\Downloaded Web Sites\5-arkan.com\_nuxt\auth.af0fc6fa.js
+Content Type: application/javascript
+
+Uri: https://5-arkan.com/_nuxt/AuthStore.e0a98238.js
+File Name: C:\Downloaded Web Sites\5-arkan.com\_nuxt\AuthStore.e0a98238.js
+Content Type: application/javascript
+
+Uri: https://5-arkan.com/_nuxt/client-only.9ce071f9.js
+File Name: C:\Downloaded Web Sites\5-arkan.com\_nuxt\client-only.9ce071f9.js
+Content Type: application/javascript
+
+Uri: https://5-arkan.com/_nuxt/config.2f87003e.js
+File Name: C:\Downloaded Web Sites\5-arkan.com\_nuxt\config.2f87003e.js
+Content Type: application/javascript
+
+Uri: https://5-arkan.com/_nuxt/contacts.dd5f2a53.js
+File Name: C:\Downloaded Web Sites\5-arkan.com\_nuxt\contacts.dd5f2a53.js
+Content Type: application/javascript
+
+Uri: https://5-arkan.com/_nuxt/default.36f609a3.js
+File Name: C:\Downloaded Web Sites\5-arkan.com\_nuxt\default.36f609a3.js
+Content Type: application/javascript
+
+Uri: https://5-arkan.com/_nuxt/default.8f64276d.css
+File Name: C:\Downloaded Web Sites\5-arkan.com\_nuxt\default.8f64276d.css
+Content Type: text/css
+
+Uri: https://5-arkan.com/_nuxt/entry.0ea8e93d.js
+File Name: C:\Downloaded Web Sites\5-arkan.com\_nuxt\entry.0ea8e93d.js
+Content Type: application/javascript
+
+Uri: https://5-arkan.com/_nuxt/entry.6b4e073c.css
+File Name: C:\Downloaded Web Sites\5-arkan.com\_nuxt\entry.6b4e073c.css
+Content Type: text/css
+
+Uri: https://5-arkan.com/_nuxt/FormButton.a89bd872.js
+File Name: C:\Downloaded Web Sites\5-arkan.com\_nuxt\FormButton.a89bd872.js
+Content Type: application/javascript
+
+Uri: https://5-arkan.com/_nuxt/Icon.6f5d80f8.css
+File Name: C:\Downloaded Web Sites\5-arkan.com\_nuxt\Icon.6f5d80f8.css
+Content Type: text/css
+
+Uri: https://5-arkan.com/_nuxt/Icon.f2179328.js
+File Name: C:\Downloaded Web Sites\5-arkan.com\_nuxt\Icon.f2179328.js
+Content Type: application/javascript
+
+Uri: https://5-arkan.com/_nuxt/iconify.aeab2e11.js
+File Name: C:\Downloaded Web Sites\5-arkan.com\_nuxt\iconify.aeab2e11.js
+Content Type: application/javascript
+
+Uri: https://5-arkan.com/_nuxt/index.54a144da.js
+File Name: C:\Downloaded Web Sites\5-arkan.com\_nuxt\index.54a144da.js
+Content Type: application/javascript
+
+Uri: https://5-arkan.com/_nuxt/index.a7614174.js
+File Name: C:\Downloaded Web Sites\5-arkan.com\_nuxt\index.a7614174.js
+Content Type: application/javascript
+
+Uri: https://5-arkan.com/_nuxt/index.esm.7167a216.js
+File Name: C:\Downloaded Web Sites\5-arkan.com\_nuxt\index.esm.7167a216.js
+Content Type: application/javascript
+
+Uri: https://5-arkan.com/_nuxt/login.f9f7aa24.js
+File Name: C:\Downloaded Web Sites\5-arkan.com\_nuxt\login.f9f7aa24.js
+Content Type: application/javascript
+
+Uri: https://5-arkan.com/_nuxt/offer.fd251f87.js
+File Name: C:\Downloaded Web Sites\5-arkan.com\_nuxt\offer.fd251f87.js
+Content Type: application/javascript
+
+Uri: https://5-arkan.com/_nuxt/privacy.2049537e.js
+File Name: C:\Downloaded Web Sites\5-arkan.com\_nuxt\privacy.2049537e.js
+Content Type: application/javascript
+
+Uri: https://5-arkan.com/_nuxt/SpinnerStore.60758258.js
+File Name: C:\Downloaded Web Sites\5-arkan.com\_nuxt\SpinnerStore.60758258.js
+Content Type: application/javascript
+
+Uri: https://5-arkan.com/_nuxt/tariffs.9775445c.js
+File Name: C:\Downloaded Web Sites\5-arkan.com\_nuxt\tariffs.9775445c.js
+Content Type: application/javascript
+
+Uri: https://5-arkan.com/_nuxt/use-resolve-button-type.bd726bd1.js
+File Name: C:\Downloaded Web Sites\5-arkan.com\_nuxt\use-resolve-button-type.bd726bd1.js
+Content Type: application/javascript
+
+Uri: https://5-arkan.com/_nuxt/_plugin-vue_export-helper.c27b6911.js
+File Name: C:\Downloaded Web Sites\5-arkan.com\_nuxt\_plugin-vue_export-helper.c27b6911.js
+Content Type: application/javascript
+
